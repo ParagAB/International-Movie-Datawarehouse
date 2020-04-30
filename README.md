@@ -27,3 +27,16 @@ PowerBI
 2. Opend Talend and setup your database connections and input file connections
 
 3. When the connections are successfull run the main job
+
+
+Data Vizualizations - 
+https://public.tableau.com/views/BoxOfficeAnalysis_1/FranchiseBoxOffice?:display_count=y&publish=yes&:origin=viz_share_link
+
+
+https://public.tableau.com/views/BoxOfficeAnalysis_2/DailyRank?:display_count=y&publish=yes&:origin=viz_share_link
+
+
+
+https://public.tableau.com/profile/parag.bhingarkar#!/vizhome/TopCategoriesonIMDBwithratings/Dashboard1
+
+https://app.powerbi.com/reportEmbed?reportId=059f667b-ce86-4f9b-b2a4-bf75fee86414&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
