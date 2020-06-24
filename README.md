@@ -1,5 +1,10 @@
 # International-Movie-Datawarehouse
 
+Amongst so many lessons we have been learning during the pandemic, we mastered an impressive data architecture and business intelligence project. This project challenged us to process and integrate data coming in from a variety of sources - IMDb data, movie rating data from MovieLens, and The Numbers data. We utilized multiple features of the Talend and SQL server to optimize the complete ETL process
+
+We then visualized the integrated data from our dimensional model in Tableau and PowerBI dashboards showcasing some core KPIs and metrics.
+
+This project helped us understand the various challenges faced while building data integration pipelines and business intelligence applications. I wish to thank my teammates Johail Sherieff and Yash Lekhwani for collaborating with me while I prepare myself for a unique data journey.
 
 To setup this project install the following softwares 
 
@@ -13,6 +18,7 @@ Tableau
 
 PowerBI
 
+Data is made publicly available by IMDB
 
 1. Run following script in SSMS to setup the staging database
     
@@ -24,7 +30,7 @@ PowerBI
     
     stg_ml_tables.sql
  
-2. Opend Talend and setup your database connections and input file connections
+2. Open Talend and setup your database connections and input file connections
 
 3. When the connections are successfull run the main job
 
