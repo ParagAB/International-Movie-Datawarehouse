@@ -46,4 +46,6 @@ https://public.tableau.com/profile/parag.bhingarkar#!/vizhome/TopCategoriesonIMD
 
 Powerbi Report
 
+![IMG_SS](https://github.com/ParagAB/International-Movie-Datawarehouse/blob/master/PowerBI%20SS.JPG?raw=true)
+
 https://app.powerbi.com/reportEmbed?reportId=059f667b-ce86-4f9b-b2a4-bf75fee86414&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
